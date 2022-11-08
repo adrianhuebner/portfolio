@@ -1,0 +1,16 @@
+header{
+    height: 100vh;
+    padding-top: 7rem;
+    overflow: hidden;
+}
+
+/* **************** PHOTO **************** */
+
+.Photo {
+    width: 200px;
+    height: auto;
+    position: absolute;
+    right:  calc(50% - 11rem);
+}
+
+/* ***************** SOCIAL LINKS *********** */
