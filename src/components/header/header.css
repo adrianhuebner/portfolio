@@ -4,13 +4,22 @@ header{
     overflow: hidden;
 }
 
-/* **************** PHOTO **************** */
+/* ************* INTRODUCTION *********** */
 
-.Photo {
-    width: 200px;
-    height: auto;
+.Introduction{
     position: absolute;
-    right:  calc(50% - 11rem);
+    left: 150px;
+    font-size: 40px;
 }
 
-/* ***************** SOCIAL LINKS *********** */
+/* **************** PHOTO **************** */
+
+.Photo{
+    position: absolute;
+    right: 250px
+}
+
+/* ************* SOCIAL LINKS *********** */
+
+
+/* ************** RESUME ***************  */

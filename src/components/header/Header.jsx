@@ -7,9 +7,17 @@ import Resume from './Resume';
 const Header = () => {
     return(
         <header>
+            <div className="Introduction">
+                <h2>
+                    Hello, I'm Adrian Huebner!
+                </h2>
+                <h2>
+                    I'm a frontend web developer!
+                </h2>
+            </div>
             <div>
                 <Photo />
-                <SocialLinks />
+                <SocialLinks /> 
                 <Resume />
             </div>
         </header>
