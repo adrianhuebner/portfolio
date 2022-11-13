@@ -1,0 +1,26 @@
+header{
+    height: 100vh;
+    padding-top: 7rem;
+    overflow: hidden;
+}
+
+/* ************* INTRODUCTION *********** */
+
+.Introduction{
+    position: absolute;
+    left: 150px;
+    font-size: 40px;
+}
+
+/* **************** PHOTO **************** */
+
+.Photo{
+    position: absolute;
+    right: 250px
+}
+
+/* ************* SOCIAL LINKS *********** */
+
+
+/* ************** RESUME ***************  */
+

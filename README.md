@@ -26,7 +26,11 @@ WIP
 
 - Install using: `npm i` or `npm install`
 
-- To run, whil you are in the project directiory run: `npm start`
+- To run, while you are in the project directiory run: `npm start`
+
+### ENV Requirements
+
+- There is a file /src/.sample.env that you will find all of the information that will be required in a local .env file
 
 ## License
 
